@@ -1,6 +1,7 @@
 # 👋 Hello everyone!
 - 👋 Hi, I’m @skittlefake1
 - 🎂 14 years old
+- 🇻🇳 From Vietnam
 - 🧑 Pronouns: he/him
 - 👀 I’m interested in coding (for fun)
 
