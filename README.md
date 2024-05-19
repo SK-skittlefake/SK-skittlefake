@@ -12,7 +12,7 @@
 **Technology:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,sass,nodejs,vite,vercel,react,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,sass,nodejs,vite,vercel,react,nextjs,angular" />
   </a>
 </p>
 
