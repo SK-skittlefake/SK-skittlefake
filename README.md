@@ -9,29 +9,12 @@
 
 *Note: My English grammar and vocabulary aren't perfect, so every now and then I rely on tools like Google Translate or ChatGPT. But hey, I'm determined to get better!*
 
-**Technology:**
+**Languages and Tools:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,sass,nodejs,vite,vercel,react,nextjs,angular" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,sass,tailwindcss,nodejs,vite,vercel,react,nextjs,angular,git,github,vscode,visualstudio,sublime,vim,neovim,windows" />
   </a>
 </p>
-
-<!-- Version control -->
-**Version control:**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github" />
-  </a>
-</p>
-
-<!-- IDE -->
-**IDE:**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,sublime,vim,neovim" />
-  </a>
-</p>
-
 
 <!---
 skittlefake1/skittlefake1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
