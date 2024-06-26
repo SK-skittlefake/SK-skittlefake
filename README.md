@@ -1,5 +1,5 @@
 # 👋 Hi there, everyone!
-- 👋 Hey, I’m Tran Xuan Thanh, but you can just call me "skittlefake", "skittlefake1" or simply "sk".
+- 👋 Hey, I’m Tran Xuan Thanh, but you can just call me "SKittlefake" or "sk.skittlefake".
 - 🎂 14 years old.
 - 🇻🇳 Proudly from Vietnam.
 - 😃 Pronouns: he/him.
@@ -15,8 +15,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,sass,tailwindcss,nodejs,vite,vercel,react,nextjs,angular,git,github,vscode,visualstudio,vim,neovim,windows" />
   </a>
 </p>
-
-<!---
-skittlefake1/skittlefake1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
