@@ -3,7 +3,6 @@
 - 🎂 14 years old.
 - 🇻🇳 Proudly from Vietnam.
 - 😃 Pronouns: he/him.
-- 👀 I have a passion for coding (just for fun).
 - 🌱 I'm currently delving into C/C++ and algorithms to sharpen my coding skills.
 - ⚡ Fun fact: Previously, I experimented with various JavaScript libraries, but I've now found stability in working with React and Angular.
 
