@@ -11,6 +11,6 @@
 **Languages and Tools:**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,sass,tailwindcss,nodejs,npm,vite,vercel,react,nextjs,angular,solidjs,git,github,md,vscode,visualstudio,vim,neovim,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,sass,tailwindcss,nodejs,npm,vite,vercel,react,nextjs,angular,solidjs,git,github,md,vscode,vim,neovim,windows" />
   </a>
 </p>
